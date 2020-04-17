@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fdb6f4447b113cc33c0a3878c5bcd772",
+    "revision": "370dc35253219298114ec62d52423936",
     "url": "/React-Meme-Generator/index.html"
   },
   {
-    "revision": "8726b1e55d545ee87723",
-    "url": "/React-Meme-Generator/static/css/main.73882827.chunk.css"
+    "revision": "0a07fd57501932f5a8c8",
+    "url": "/React-Meme-Generator/static/css/main.82932a12.chunk.css"
   },
   {
     "revision": "79e98b7a5ca4d7147135",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/React-Meme-Generator/static/js/2.df068a34.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8726b1e55d545ee87723",
+    "revision": "0a07fd57501932f5a8c8",
     "url": "/React-Meme-Generator/static/js/main.04f5ba2b.chunk.js"
   },
   {
